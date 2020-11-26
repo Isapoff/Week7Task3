@@ -107,7 +107,7 @@ import math
 # class MyString(str):
     
 #     def stroka(self, *args, **kwargs):
-#         print('Это конкотенация')
+#         print('Это конкатенация')
 #         return args[0]
 
 
