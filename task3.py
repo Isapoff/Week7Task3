@@ -112,36 +112,9 @@ import math
 
 
 # intg = MyInt()
-# num = intg.add(1 + 1)
-# print(num)
+# print(intg.add(1 + 1))
 # string = MyString()
-# strg = string.add('1' '1')
-# print(strg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# print(string.add('1' '1'))
 
 
 
