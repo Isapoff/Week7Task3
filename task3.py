@@ -99,22 +99,22 @@ import math
 
 # class MyInt(int):
 
-#     def add(self, *args, **kwargs):
+#     def num(self, *args, **kwargs):
 #         print('Это сложение')
 #         return args[0]
 
     
 # class MyString(str):
     
-#     def add(self, *args, **kwargs):
+#     def stroka(self, *args, **kwargs):
 #         print('Это конкотенация')
 #         return args[0]
 
 
 # intg = MyInt()
-# print(intg.add(1 + 1))
+# print(intg.num(1 + 1))
 # string = MyString()
-# print(string.add('1' '1'))
+# print(string.stroka('1' '1'))
 
 
 
